@@ -2,7 +2,7 @@ TEI-NTMSS Schema
 ----------------
 
 These are the schema files that are used to validate our transcriptions. The schema currently comply with version
-1.6 of the IGNTP transcription guidelines. The files included in the repository are:
+1.6 of the IGNTP transcription guidelines available at http://epapers.bham.ac.uk/4301/. The files included in the repository are:
 
 * TEI-NTMSS.odd - this is the TEI *One Document Does it All* format. it is the file that must be uploaded into Roma if the schema ever need to be changed.
 * TEI-NTMSS.rng - this is a RelaxNG schema in XML syntax which is the easiest way to validate transcriptions in Oxygen.
