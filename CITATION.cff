@@ -6,7 +6,7 @@ message: >-
 type: software
 authors:
   - given-names: H.A.G.
-  - family-names: Houghton
+    family-names: Houghton
   - given-names: Catherine
     family-names: Smith
 repository-code: >-
