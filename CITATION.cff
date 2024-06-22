@@ -11,7 +11,7 @@ authors:
     family-names: Smith
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.12250570
+    value: 10.5281/zenodo.12250569
 repository-code: >-
   https://github.com/itsee-birmingham/NT_Manuscripts_TEI_Schema
 abstract: >-
