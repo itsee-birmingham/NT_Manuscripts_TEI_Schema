@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: NT Manuscript TEI Schema
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: H.A.G.
+  - family-names: Houghton
+  - given-names: Catherine
+    family-names: Smith
+repository-code: >-
+  https://github.com/itsee-birmingham/NT_Manuscripts_TEI_Schema
+abstract: >-
+  These are the schema files that are used to validate the IGNTP NT Manuscript transcriptions. 
+  The schema currently comply with version 1.6 of the IGNTP transcription guidelines 
+  available at http://epapers.bham.ac.uk/4301/.
+license: MIT
